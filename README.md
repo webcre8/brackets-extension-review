@@ -1,0 +1,1 @@
+All extensions list for Adobe Brackets.
